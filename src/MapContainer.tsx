@@ -194,7 +194,7 @@ export class MapsPage extends React.Component<{}, MapsPageState> {
         </Stack>
         <p></p>
         <LoadScript
-          googleMapsApiKey="AIzaSyBRggqX867X31WZeHBREbQaIFypEyNLbJE"
+          googleMapsApiKey=""
         >
           <GoogleMap
             mapContainerStyle={containerStyle}
